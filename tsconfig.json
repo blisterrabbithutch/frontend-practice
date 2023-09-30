@@ -8,7 +8,7 @@
     // в эту версию компилируем output файл
     "target": "es5",
     // пишем синтаксис реакта который будет компилироваться
-    "jsx": "react",
+    "jsx": "react-jsx",
     // обрабатываем ts & js
     "allowJs": true,
     // ниже - node/classic. юзаем node
