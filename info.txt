@@ -1,0 +1,34 @@
+// Topics
+- асинхронные модули
+- сборка вебпак
+- тс
+- роутинг
+- подключение препроцессора
+- подключение переменных стилей и тем
+- вынесение провайдера в хук для смены тем
+- кондишн классы для стилизации (classNames хелпер)
+
+// cmds
+npm run start
+npx webpack
++ 2 билда
+
+// FSD архитектура подготовка.
+
+classic:
+pages
+components
+helpers
+api
+
+fsd слои:
+app -> providers, errorBoundary, context etc
+*processes
+pages -> widgets + features
+widgets -> features
+features -> entities
+entities -> user, post, comment -> ui, model, api
+shared - из одного проекта можно перекинуть в другой.
+
+каждый слой состоит из слайсов
+каждый слайс из сегментов
