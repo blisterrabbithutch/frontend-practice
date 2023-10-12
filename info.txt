@@ -10,6 +10,8 @@
 - рефакторинг архитектуры на FSD
 - added FSD to project. refactored routes. created absolute paths in webpack config. added aliases
 - отрефакторен роутер в рамках архитектуры FSD - добавлен роутер конфиг
+- добавлены shared компоненты для развития своего UI кита. типизированы.
+- добавлены кастомные темы, вариации внешнего вида и состояния для shared компонентов
 
 
 
