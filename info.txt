@@ -8,6 +8,10 @@
 - вынесение провайдера в хук для смены тем
 - кондишн классы для стилизации (classNames хелпер)
 - рефакторинг архитектуры на FSD
+- added FSD to project. refactored routes. created absolute paths in webpack config. added aliases
+- отрефакторен роутер в рамках архитектуры FSD - добавлен роутер конфиг
+
+
 
 // cmds
 npm run start
