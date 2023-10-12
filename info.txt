@@ -28,6 +28,11 @@
 - определение isDev режима для debug режима shared модуля i18n (webpack DefinePlugin - declared ts module for dev-variable)
 
 
+- webpack hot module replacement
+
+
+
+
 // cmds
 npm run start
 npx webpack
