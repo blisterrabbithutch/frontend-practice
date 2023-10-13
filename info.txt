@@ -28,9 +28,10 @@
 - определение isDev режима для debug режима shared модуля i18n (webpack DefinePlugin - declared ts module for dev-variable)
 
 
-- webpack hot module replacement
+- webpack hot module replacement - позволяет обновить приложение после изменений в коде без перезагрузки страницы
 
 
+- ESLint настройка.
 
 
 // cmds
