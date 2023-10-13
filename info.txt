@@ -31,7 +31,9 @@
 - webpack hot module replacement - позволяет обновить приложение после изменений в коде без перезагрузки страницы
 
 
-- ESLint настройка.
+- ESLint настройка. создание правил, выбор основного набора.
+
+- ESLint for SCSS: Stylelint. i18next eslint. prohibited text in jsx without translation
 
 
 // cmds
