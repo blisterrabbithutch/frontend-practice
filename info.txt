@@ -35,6 +35,8 @@
 
 - ESLint for SCSS: Stylelint. i18next eslint. prohibited text in jsx without translation
 
+- JEST тесты. настройка сборки (babel + TS + jest custom path). unit tests for classNames
+
 
 // cmds
 npm run start
