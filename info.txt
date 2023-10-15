@@ -37,6 +37,8 @@
 
 - JEST тесты. настройка сборки (babel + TS + jest custom path). unit tests for classNames
 
+- Router: added rule to 404 unexisting route. shared Page Loader implemented
+
 
 // cmds
 npm run start

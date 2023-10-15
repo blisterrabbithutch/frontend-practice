@@ -1,5 +1,6 @@
 {
-  "Test Example": "Тестовый Пример",
-  "Lang": "Ru",
-  "Main Page": "Главная Страница"
+    "Test Example": "Тестовый Пример",
+    "Lang": "Ru",
+    "Not Found Page": "Страница 404",
+    "Main Page": "Главная Страница"
 }
