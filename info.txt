@@ -40,6 +40,9 @@
 - Router: added rule to 404 unexisting route. shared Page Loader implemented
 
 
+- ErrorBoundary. 
+
+
 // cmds
 npm run start
 npx webpack
