@@ -40,13 +40,17 @@
 - Router: added rule to 404 unexisting route. shared Page Loader implemented
 
 
-- ErrorBoundary. 
+- ErrorBoundary.
+
+- анализ размера бандла. BundleAnalyzer
 
 
 // cmds
 npm run start
 npx webpack
-+ 2 билда
+npm run unit
+npm run build:dev
+
 
 // FSD архитектура подготовка.
 
