@@ -44,6 +44,9 @@
 
 - анализ размера бандла. BundleAnalyzer
 
+- React Testing Library: Тесты компонентов. Добавлены абсолютные импорты в окружение Jest. Настроено окружение Jest - пути, scss
+- 
+
 
 // cmds
 npm run start
