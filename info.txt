@@ -45,8 +45,14 @@
 - анализ размера бандла. BundleAnalyzer
 
 - React Testing Library: Тесты компонентов. Добавлены абсолютные импорты в окружение Jest. Настроено окружение Jest - пути, scss
-- 
 
+- Storybook - настройка. адаптирован к тс, абс путям, цсс модулям, работе с свг.настройка абсолютного импорта в окружении storybook. Storybook decorators - для избавления от импорта css-переменных в каждый сторис styleDecorator
+- ThemeDecorator для storybook - для тем. применение декоратора темы для варианта компонента баттон.
+- добавление поддержки svg в окружении Storybook. Создание декоратора для роутов для навбар - RouteDecorator
+- созданы стори для баттон сайдбар и навбар.
+- создан сторис под ErrorPage. 
+- создан сторис под AppLink, Loader, ThemeSwitcher
+- создан сторис под AboutPage, MainPage, NotFoundPage
 
 // cmds
 npm run start
