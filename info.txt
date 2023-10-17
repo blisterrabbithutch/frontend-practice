@@ -54,6 +54,8 @@
 - создан сторис под AppLink, Loader, ThemeSwitcher
 - создан сторис под AboutPage, MainPage, NotFoundPage
 
+- Loki - скриншотные тесты - регрессионное тестирование. новый функционал не сломал старый. сравнивает верстку со старой существующий на момент создания снепшота.
+
 // cmds
 npm run start
 npx webpack
