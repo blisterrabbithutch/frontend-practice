@@ -72,6 +72,12 @@
 - fix ThemeProvider, ThemeDecorator
 
 
+- подключен Redux ToolKit. добавлена обертка стора для сторибук и тестов - StoreProvider
+- Базовый пример - создаются src/entities под каждую сущность - Counter. Типизирован.
+- покрытие unit-тестами Redux селекторов: getCounter через DeepPartial, getCounterValue
+- unit-тесты на reducer в counterSlice -> decrement, increment.
+- Написан Компонентный тест использующий стор Redux и проверяющий верстку
+
 
 
 // cmds
