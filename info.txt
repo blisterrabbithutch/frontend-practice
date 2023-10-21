@@ -107,6 +107,9 @@
 - добавлена поддержка асинхронных редьюсеров для сторибук в StoreDecorator
 
 
+- тесты для авторизации RTK - features/AuthByUsername -> loginByUsername. имитация запроса на сервер для теста.
+- создание модуля TestAsyncFunc - для теста запросов. 
+
 
 // cmds
 npm run start
