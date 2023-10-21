@@ -89,6 +89,9 @@
 - компонент Input + сторибук
 
 
+- Husky как замена GitHub Actions - precommit actions
+
+
 
 
 
