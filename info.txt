@@ -92,6 +92,14 @@
 - Husky как замена GitHub Actions - precommit actions
 
 
+- Создание Формы Авторизации - loginSlice RTK - feature authByUsername. 
+- подключение асинхронного редюсера. 
+- Async Thunk - Создание асинхронного экшна. (model/services/loginByUsername) 
+- интеграция в форму авторизации готовой связки + автоматическая авторизация через локалСторадж
+- Создание shared Text компонента.
+- StoreDecorator для сторибук - для отрисовки компонента через стейт
+- __IS_DEV__ прокидываем из вебпак в сторибук
+
 
 
 
@@ -100,6 +108,10 @@ npm run start
 npx webpack
 npm run unit
 npm run build:dev
+
+юи тест - 
+npm run test:ui:report
+npm run test:ui:ok
 
 
 // FSD архитектура подготовка.
