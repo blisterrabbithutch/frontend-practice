@@ -102,6 +102,9 @@
 
 
 
+- husky test
+
+
 
 // cmds
 npm run start
