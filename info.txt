@@ -111,6 +111,14 @@
 - создание модуля TestAsyncFunc - для теста запросов. 
 
 
+- Sidebar refactoring -> SidebarItem separated
+- проверка onSuccess на успешный логин.
+- страница настроек ProfilePage. 
+- memo - 90% оборачиваем компонентов. НЕЛЬЗЯ оборачивать компоненты с children. мемо кидаем на Input -> иначе перерисовываются ВСЕ инпуты на странице
+- new Entity RTK -> Profile 
+- создан асинхронный стейт profile только при открытии страницы
+
+
 // cmds
 npm run start
 npx webpack
