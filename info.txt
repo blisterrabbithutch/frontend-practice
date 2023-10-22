@@ -119,6 +119,13 @@
 - создан асинхронный стейт profile только при открытии страницы
 
 
+- создание общего shared инстанса Axios 
+- middleware конфиг для store RTK
+- переписан features/AuthByUsername/loginByUsername через работу с общим конфигом Axios
+- добавление navigate в extra миддлверы стора чтобы менять роуты при работе с редьюсером
+- глобальная переменная __API__ добавлена во все окружения - вебпак, тесты, сторибук. (as __IS_DEV__)
+
+
 // cmds
 npm run start
 npx webpack
