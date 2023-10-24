@@ -140,6 +140,21 @@
 - создание приватных роутов
 
 
+
+- Создание валидации -> services/validateProfileData и возврат из хелпера кода в массив ошибки ENUM в момент updateProfileData
+- рендер валидационных ошибок в компоненте ProfilePage
+- маппинг через ENUM словаря ошибок по статусу кода
+- сторис на карточку ProfileCard
+- !разделение сред выполнения кода - storybook, frontend, jest: через DefinePlugin глобальную переменную.
+- выполняем запрос только в окружении frontend. 
+- unit тесты - getProfileData, getProfileError. fetchProfileData (validateProfileData), updateProfileData (default state assign to test case). extra reducer testing.
+
+
+- 
+
+
+
+
 ! массив, объект ВНЕ компонента - не будет делать перерендер
 
 
