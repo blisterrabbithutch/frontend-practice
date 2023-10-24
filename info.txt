@@ -150,7 +150,9 @@
 - unit тесты - getProfileData, getProfileError. fetchProfileData (validateProfileData), updateProfileData (default state assign to test case). extra reducer testing.
 
 
-- 
+- МУЛЬТИТЕМЫ - добавление третьей темы
+- NPM concurrently: одновременный запуск сервер + клиент
+- HotModuleReplacementPlugin fix: react-refresh
 
 
 
