@@ -155,6 +155,7 @@
 - HotModuleReplacementPlugin fix: react-refresh
 
 
+- Private routes realization as nested component RequireAuth. _init flag to use with async routes
 
 
 ! массив, объект ВНЕ компонента - не будет делать перерендер
