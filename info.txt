@@ -158,6 +158,16 @@
 - Private routes realization as nested component RequireAuth. _init flag to use with async routes
 
 
+
+- создание приватных ArticlePage
+- создание приватных ArticleDetailsPage
+- изменение конфига webpack для поддержки nested routes async - publicPath: '/'
+- редирект из articles single page на главную
+
+
+
+
+
 ! массив, объект ВНЕ компонента - не будет делать перерендер
 
 
