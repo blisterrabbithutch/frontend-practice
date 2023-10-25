@@ -166,6 +166,11 @@
 
 
 
+- создание записей на бэке под разные сущности статьи
+- полностью типизирована структура Article
+- инкапсуляция ArticleDetails
+- создание entity - Article. selectors, services (requests), slice, types
+- создание shared Skeleton
 
 
 ! массив, объект ВНЕ компонента - не будет делать перерендер
