@@ -176,8 +176,16 @@
 
 
 - модуль комментариев для ArticlePage: entity Comment.
-- Comments - нормализация данных - относимся к данным в стейте как к базе данных.
+- Comments - нормализация данных - относимся к данным в стейте как к базе данных. комменты самостоятельны но крепятся к артиклю.
+- serice/fetchArticleById
 
+
+
+- other profiles view feature.
+- clickable comments lead to another profiles.
+- addCommentForm RTK entity. Component AddCommentForm
+- post new comment request - sendComment
+- запрет редактирования чужого профиля
 
 
 
