@@ -186,6 +186,10 @@
 - addCommentForm RTK entity. Component AddCommentForm
 - post new comment request - sendComment
 - запрет редактирования чужого профиля
+- добавлены сторибук комментарии
+
+
+
 
 
 
