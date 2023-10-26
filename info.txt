@@ -190,7 +190,15 @@
 
 
 
+- sidebar new feature -> created new selector достаем авторизованного пользователя.
 
+
+
+
+- page articles list. 
+- change view from cards to list
+- ArticleList, ArticleListItem components
+- кастомный хук useHover для статуса ховера через js
 
 
 
