@@ -252,7 +252,13 @@
 
 - публикация netlify.
 - билд переводов - copy webpack plugin CopyPlugin
-- 
+
+
+
+
+- Виртуализация ArticleList -> react-virtualized (аналоги новые - react-window, react-virtuozo)
+
+
 
 
 
