@@ -262,6 +262,19 @@
 
 
 - Abstract Syntax Tree. own linter rules lib preset.
+
+
+
+
+- кастомная UI библиотека компонентов - Flex. покрывает все задачи дизайн системы. не требует дальнейшего создания цсс.
+
+
+
+- semantic refactoring for Text.
+
+
+
+- Headless UI lib. Range Slider. Custom Select Dropdown. Floating UI - implementing of dropdown, tooltip position
 - 
 
 
