@@ -261,6 +261,9 @@
 
 
 
+- Abstract Syntax Tree. own linter rules lib preset.
+- 
+
 
 
 ! массив, объект ВНЕ компонента - не будет делать перерендер
