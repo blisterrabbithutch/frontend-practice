@@ -275,7 +275,22 @@
 
 
 - Headless UI lib. Range Slider. Custom Select Dropdown. Floating UI - implementing of dropdown, tooltip position
-- 
+
+
+
+
+
+- Headless UI -> Menu dropdown. 
+
+
+
+
+- RTK Query запросы. Рефакторинг. Кеширует запросы. Асинхронные запросы-хуки которые не увеличивают размер основного бандла.
+- RTK Query API axios. 
+- рефакторинг ArticleList - features
+
+
+
 
 
 
