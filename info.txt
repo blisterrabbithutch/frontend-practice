@@ -313,8 +313,15 @@
 
 
 
-
 - typscript isolated modules
+
+
+
+
+
+- rebuild ts in separate process. 
+- ts loader is slow. separate process increase speed in 3 times while dev. - fork ts checker
+- own babel plugin to ignore data- attributes (AST)
 
 
 
