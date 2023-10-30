@@ -296,6 +296,9 @@
 
 
 
+- RTL тесты на карточку профиля - EditableProfileCard.test
+- testing library events tests.
+
 
 
 ! массив, объект ВНЕ компонента - не будет делать перерендер
