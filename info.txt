@@ -297,7 +297,15 @@
 
 
 - RTL тесты на карточку профиля - EditableProfileCard.test
-- testing library events tests.
+- testing library events tests. тестирование заполнения формы, валидацию и мок запроса
+
+
+
+- роли пользователя и доступ к приложению- запрет перехода на роуты на уровне роутера
+- forbidden page
+
+
+
 
 
 
