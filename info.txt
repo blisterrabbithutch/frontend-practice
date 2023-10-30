@@ -288,7 +288,11 @@
 - RTK Query запросы. Рефакторинг. Кеширует запросы. Асинхронные запросы-хуки которые не увеличивают размер основного бандла.
 - RTK Query API axios. 
 - рефакторинг ArticleList - features
+- страницы теперь наборы features
 
+
+
+- js report in html format for testing.
 
 
 
