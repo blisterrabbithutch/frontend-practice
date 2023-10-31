@@ -359,6 +359,15 @@
 
 
 
+
+- vite: react-typescript for development mode
+
+
+
+
+
+
+
 ! массив, объект ВНЕ компонента - не будет делать перерендер
 
 
