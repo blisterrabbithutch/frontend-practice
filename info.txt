@@ -317,6 +317,14 @@
 
 
 
+
+- rebuild ts in separate process. 
+- ts loader is slow. separate process increase speed in 3 times while dev. - fork ts checker
+- own babel plugin to ignore data- attributes (AST)
+
+
+
+
 - shared Popover & notifications implementation with polling fetch.
 
 
@@ -328,15 +336,17 @@
 
 
 
+- useModal hook. 
+
+
+
+- use gesture, react spring. мобильные анимации для дравер меню.
+- ленивая асинхронная подгрузка библиотек через динамический импорт только в тех компонентах где они используются без попадания в бандл
+- создаем отдельный shared AnimationProvider, useAnimationLibs для работы с большими библиотеками через Ref инстансов бибилотек.
 
 
 
 
-
-
-- rebuild ts in separate process. 
-- ts loader is slow. separate process increase speed in 3 times while dev. - fork ts checker
-- own babel plugin to ignore data- attributes (AST)
 
 
 
