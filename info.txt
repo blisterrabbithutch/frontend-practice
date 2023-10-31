@@ -359,7 +359,6 @@
 
 
 
-
 - vite: react-typescript for development mode
 
 
@@ -383,6 +382,8 @@
 
 
 
+
+- поддержка alias для eslint
 
 
 
