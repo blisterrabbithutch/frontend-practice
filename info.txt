@@ -367,7 +367,13 @@
 
 - Rate Article Widget - StarRating.
 - RatingCard
-- 
+
+
+
+
+- features/articleRatingApi.
+- Query GET getRating for Article, POST addRating
+- асинхронная загрузка блока рейтинга
 
 
 
