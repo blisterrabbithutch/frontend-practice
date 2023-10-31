@@ -317,6 +317,21 @@
 
 
 
+- shared Popover & notifications implementation with polling fetch.
+
+
+
+
+- Drawer для мобильного. 
+- react device detect - по useragent определение девайса.
+- на мобилке дровер а на десктоп - модалка
+
+
+
+
+
+
+
 
 
 - rebuild ts in separate process. 
