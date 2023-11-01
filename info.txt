@@ -413,6 +413,23 @@
 
 
 - precommit hooks only for staged files
+- ui test report
+- eslint autofix for relative paths
+
+
+
+
+- done: React Testing Library, Loki, unit-jest
+- e2e - тесты проверяют работоспособность приложения в браузере
+- cypress: npx cypress open. (vscode lib - cypress support)
+- тесты на роутинг е2е.
+
+
+
+
+
+
+
 
 
 
