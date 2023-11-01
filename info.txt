@@ -422,13 +422,14 @@
 - done: React Testing Library, Loki, unit-jest
 - e2e - тесты проверяют работоспособность приложения в браузере
 - cypress: npx cypress open. (vscode lib - cypress support)
-- тесты на роутинг е2е.
+- тесты на роутинг е2е - доступы по ролям к роутам.
 
 
 
-
-
-
+- e2e profile edit: backend & frontend sync.
+- article list e2e
+- отправка рейтинга оценки статьи,
+- через метод создание статьи, тест, удаление статьи - консистентность данных
 
 
 
