@@ -440,6 +440,9 @@
 
 
 
+- изолированные тесты на Cypress + stab fixture
+- провайдеры декораторы для Cypress тестов (RTK, Router)
+
 
 
 
