@@ -401,6 +401,10 @@
 
 
 
+- fallback & lazy loading for AppImage component (useLayoutEffect - before mounting)
+
+
+
 
 
 
